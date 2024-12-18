@@ -16,5 +16,3 @@ This project is a responsive and visually appealing landing page for QuickRent, 
    `cd QuickRent-Landing-Page`
 3. Open `index.html` in a browser to view the landing page.
 
-## Link to Deployed Version
-[Live Demo on GitHub Pages](https://Rixxxy.github.io/QuickRent-Landing-Page/)
